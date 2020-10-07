@@ -12,8 +12,6 @@ struct FirstAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-            //Commit Test
-            //wow...
         }
     }
 }
