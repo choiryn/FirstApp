@@ -11,7 +11,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         NavigationView {
-            List(0..<5) { index in
+            List(0..<10) { index in
                 HStack {
                     Image(systemName: "star")
                     Text("Hello World")
