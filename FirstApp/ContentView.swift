@@ -10,15 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        NavigationView {
-            List(0..<10) { index in
-                HStack {
-                    Image(systemName: "star")
-                    Text("Hello World")
-                }
-            }
-            .navigationBarTitle(Text("To do List"))
-        }
+        Text("메롱")
     }
 }
 

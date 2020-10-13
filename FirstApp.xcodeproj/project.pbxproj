@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC44A0382535E03300CEA8B7 /* variable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC44A0372535E03300CEA8B7 /* variable.swift */; };
 		BC8B6CDD252DF8010029A27E /* FirstAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC8B6CDC252DF8010029A27E /* FirstAppApp.swift */; };
 		BC8B6CDF252DF8010029A27E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC8B6CDE252DF8010029A27E /* ContentView.swift */; };
 		BC8B6CE1252DF8020029A27E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC8B6CE0252DF8020029A27E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC44A0372535E03300CEA8B7 /* variable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = variable.swift; sourceTree = "<group>"; };
 		BC8B6CD9252DF8010029A27E /* FirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC8B6CDC252DF8010029A27E /* FirstAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstAppApp.swift; sourceTree = "<group>"; };
 		BC8B6CDE252DF8010029A27E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				BC8B6CE0252DF8020029A27E /* Assets.xcassets */,
 				BC8B6CE5252DF8020029A27E /* Info.plist */,
 				BC8B6CE2252DF8020029A27E /* Preview Content */,
+				BC44A0372535E03300CEA8B7 /* variable.swift */,
 			);
 			path = FirstApp;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC8B6CDF252DF8010029A27E /* ContentView.swift in Sources */,
+				BC44A0382535E03300CEA8B7 /* variable.swift in Sources */,
 				BC8B6CDD252DF8010029A27E /* FirstAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
